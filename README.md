@@ -23,6 +23,26 @@ Here are some ideas to get you started:
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,webpack,jest,)](https://skillicons.dev) -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,webpack,jest,react,java,python,junit,jdbc," />
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,postman,gitlab" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,css,java,python,cs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,html,firebase,webpack,jest,react,jquery" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,maven,mongodb,sql,sqlite,nodejs,selenium,svg,vscode" />
   </a>
 </p>
