@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [my personal portfolio website]().
+- 🔭 I’m currently working on [my personal portfolio website](https://github.com/dr96mabuza/Personal-Portfolio-1).
 - 🌱 I’m currently learning Rust.
