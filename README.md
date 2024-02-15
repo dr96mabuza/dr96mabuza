@@ -43,3 +43,8 @@ At [WeThinkCode_](https://www.wethinkcode.co.za/), I'm learning lots of differen
     <img src="https://skillicons.dev/icons?i=docker,maven,mongodb,sqlite,nodejs,selenium,svg,vscode,idea" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prisma,mysql" />
+  </a>
+</p>
