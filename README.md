@@ -45,6 +45,6 @@ At [WeThinkCode_](https://www.wethinkcode.co.za/), I'm learning lots of differen
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prisma,mysql,selenium,netlify,linux" />
+    <img src="https://skillicons.dev/icons?i=prisma,mysql,netlify,linux" />
   </a>
 </p>
